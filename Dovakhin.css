@@ -1,0 +1,9 @@
+.sheogorath {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+}
+
+.sheogorath .nocturnal {
+  background-color: red;
+}
